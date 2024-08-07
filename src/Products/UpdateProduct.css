@@ -1,0 +1,26 @@
+.custom-card {
+    width: 100%;
+    max-width: 450px;
+}
+
+.custom-card .card-body {
+    padding: 10px; /* Reduced padding */
+}
+
+.custom-card .form-group {
+    margin-bottom: 10px; /* Reduced margin between form groups */
+}
+
+.custom-card .form-label {
+    margin-bottom: 5px; 
+}
+
+.custom-card .btn {
+    padding: 6px 12px; 
+}
+
+.custom-card p {
+    margin-top: 5px; 
+    font-size: 0.9rem;
+    color: #555;
+}
